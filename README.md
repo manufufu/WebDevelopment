@@ -1,6 +1,6 @@
 # Useful Web Developer Tools in creating a web.
 
-### lazySizes
+## lazySizes
 [Lazy Size](https://github.com/aFarkas/lazysizes)     
 [Lazy Size Web](https://afarkas.github.io/lazysizes/index.html)   
      
@@ -21,3 +21,7 @@ When lazy loading a slider, you need to lazyload the image first; and then apply
   });
  }, 1000);
 ```
+
+## Useful tools.
+
+1. [GIF Loader](https://loading.io/)
