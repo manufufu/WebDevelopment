@@ -8,10 +8,6 @@ lazySizes is the ultimate and lightweight lazyLoader which lazy loads images (in
 
 When lazy loading a slider, you need to lazyload the image first; and then apply the slick slider using settimeout function or apply the gif loading as a replacement
 
-## Show a loading icon until the page is load completely
-
-[Loaded](https://stackoverflow.com/questions/23906956/show-loading-icon-until-the-page-is-load)
-
 ###### Example
 
 ```
@@ -25,6 +21,10 @@ When lazy loading a slider, you need to lazyload the image first; and then apply
   });
  }, 1000);
 ```
+
+## Show a loading icon until the page is load completely
+
+[Loaded](https://stackoverflow.com/questions/23906956/show-loading-icon-until-the-page-is-load)
 
 ## Useful tools.
 
