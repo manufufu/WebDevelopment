@@ -6,7 +6,11 @@
      
 lazySizes is the ultimate and lightweight lazyLoader which lazy loads images (including responsive images (picture/srcset)), iframes and scripts. It is written in VanillaJS and with high performance in mind.
 
-When lazy loading a slider, you need to lazyload the image first; and then apply the slick slider using settimeout function or apply the gif loading as a replacement    
+When lazy loading a slider, you need to lazyload the image first; and then apply the slick slider using settimeout function or apply the gif loading as a replacement
+
+## Show a loading icon until the page is load completely
+
+[Loaded](https://stackoverflow.com/questions/23906956/show-loading-icon-until-the-page-is-load)
 
 ###### Example
 
