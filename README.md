@@ -1,6 +1,6 @@
 # Useful Web Developer Tools, tricks and tips in creating a web.
 
-## Useful frameworks
+## Images
 
 ### Lazy Sizes
 [Lazy Size](https://github.com/aFarkas/lazysizes)     
@@ -13,10 +13,10 @@ Preferably use the [CSS API](https://github.com/aFarkas/lazysizes#css-api) trick
 #### NOT WORKING FOR
 1. Slick slider - it has it's own lazy loading stuff, has conflict with other frameworks.
 
-## Show a loading icon until the page is load completely
+### Show a loading icon until the page is load completely
 
 [Loaded](https://stackoverflow.com/questions/23906956/show-loading-icon-until-the-page-is-load)
 
-## Useful tools.
+### Useful tools.
 
 1. [GIF Loader](https://loading.io/)
