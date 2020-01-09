@@ -22,6 +22,10 @@ Preferably use the [CSS API](https://github.com/aFarkas/lazysizes#css-api) trick
 [Stop image jumping trick](https://itnext.io/how-to-stop-content-jumping-when-images-load-7c915e47f576)     
 It's best to combine this trick with lazysizes CSS API + content jumping trick.
 
+### Optimize images
+
+Optimize images for about 60%, just to maintain the quality and reduce the size of an image.
+
 ### Useful tools.
 
 1. [GIF Loader](https://loading.io/)
