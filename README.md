@@ -1,6 +1,6 @@
 # Useful Web Developer Tools, tricks and tips in creating a web.
 
-## Images
+## Images tips and tricks
 
 ### Lazy Sizes
 [Lazy Size](https://github.com/aFarkas/lazysizes)     
