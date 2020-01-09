@@ -114,6 +114,9 @@ Basically liquid templating language has a value that is on the data store, the 
 
 Shopify liquid templating language for using image is ```{{ 'smirking_gnome.gif' | asset_url | img_tag }}``` and the equivalent of this line of code in HTML is ```<img src="//cdn.shopify.com/s/files/1/0147/8382/t/15/assets/smirking_gnome.gif?v=1384022871" alt="" />```
 
+I will not go in details but there's much more to learn, here's a cheat sheet for shopify templating language.
+[Cheat sheet](https://www.shopify.com.ph/partners/shopify-cheat-sheet)
+
  
 
 
