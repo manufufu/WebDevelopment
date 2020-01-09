@@ -17,6 +17,10 @@ Preferably use the [CSS API](https://github.com/aFarkas/lazysizes#css-api) trick
 
 [Loaded](https://stackoverflow.com/questions/23906956/show-loading-icon-until-the-page-is-load)
 
+### How to stop content jumping when images load?
+
+[Stop image jumping trick](https://itnext.io/how-to-stop-content-jumping-when-images-load-7c915e47f576) 
+
 ### Useful tools.
 
 1. [GIF Loader](https://loading.io/)
