@@ -19,7 +19,7 @@ Preferably use the [CSS API](https://github.com/aFarkas/lazysizes#css-api) trick
 
 ### How to stop content jumping when images load?
 
-[Stop image jumping trick](https://itnext.io/how-to-stop-content-jumping-when-images-load-7c915e47f576)
+[Stop image jumping trick](https://itnext.io/how-to-stop-content-jumping-when-images-load-7c915e47f576)     
 It's best to combine this trick with lazysizes CSS API + content jumping trick.
 
 ### Useful tools.
