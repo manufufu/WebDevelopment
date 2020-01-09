@@ -42,3 +42,22 @@ This speeds up the performance of the website.
 [Crossorigin](http://gavinballard.com/tiny-tweaks-for-shopify-theme-performance/)     
 
 crossorigin="anonymous"
+
+### Combine CSS File into 1 stylesheet file and JS file into 1 JS file,
+
+Combine CSS file into 1 stylesheet, this lessen up the http requests that slows the load.
+
+### Minify CSS and JS
+
+This lessens the size of the stylesheet and script filed deliver, Use Gzip to achieve a much better compiling result.
+
+## Relnoopener
+
+[Google developer Relnoopener](https://developers.google.com/web/tools/lighthouse/audits/noopener)
+When your page links to another page using target="_blank", the new page runs on the same process as your page. If the new page is executing expensive JavaScript, your page's performance may also suffer. 
+
+n top of this, target="_blank" is also a security vulnerability. The new page has access to your window object via window.opener, and it can navigate your page to a different URL using window.opener.location = newURL. 
+
+Add rel="noopener" or rel="noreferrer" to each of the links that Lighthouse has identified in your report. In general, always add one of these attributes when you open an external link in a new window or tab.
+
+<a href="https://examplepetstore.com" target="_blank" rel="noopener">...</a>
