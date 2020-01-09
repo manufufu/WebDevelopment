@@ -98,6 +98,10 @@ Use the following format when using a specific font, this ensures that the font 
 
 Use semantics in creating a web, instead of using div or span, use semantics or accessibility.
 
+### Use keyframes and transform with transition for simple animations 
+
+You can look for animations on [Code pen](https://codepen.io/search/pens?q=hover)
+
 # Shopify Theme Development
 The goal is to learn Shopify Theme development, there isn't much a course on creating a theme for shopify but I hope you will learn a lot with this.
 
