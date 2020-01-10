@@ -10,6 +10,10 @@ lazySizes is the ultimate and lightweight lazyLoader which lazy loads images (in
 
 Preferably use the [CSS API](https://github.com/aFarkas/lazysizes#css-api) trick
 
+### Simple text animation
+
+[Animation](https://tobiasahlin.com/moving-letters/#2)
+
 #### NOT WORKING FOR
 1. Slick slider - it has it's own lazy loading stuff, has conflict with other frameworks.
 
